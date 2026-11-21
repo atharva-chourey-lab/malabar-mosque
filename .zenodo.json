@@ -1,0 +1,30 @@
+{
+  "title": "An attestation ladder for India's first mosque: the Cheraman tradition against the dated record",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "The Cheraman Juma Masjid at Methala, Kodungallur, is by tradition the first mosque in India, founded in 629 CE after the last Cheraman Perumal witnessed the splitting of the moon, accepted Islam at the hands of the Prophet Muhammad, and authorised his companions to build mosques at the Malabar ports. This paper grades that tradition against the dated record: the legend's own earliest texts, the standing fabric, the Arabic geographical witnesses in date order, and the coast's dated epigraphy. The Prophet-lifetime synchronism that produces 629 is the youngest layer of the tradition, not the earliest: Duarte Barbosa (c. 1516) dates the king's conversion to c. 900, João de Barros to c. 886, and Zainuddin's Tuḥfat al-Mujāhidīn (1583), the first full devotional telling, places it two centuries after the Prophet, c. 820s; the named founder, Malik ibn Dinar, died c. 748, a generation after the Companions, and cannot have been commissioned by the Prophet. The dated record instead gives a probable Muslim burial on the coast in 782/783, a firm Muslim community witnessing a royal charter at Kollam in 849, and the earliest dated mosque foundation in Kerala in 1124, while the Kodungallur mosque's oldest datable fabric is its granite foundation, stylistically 11th–12th century. The verdicts are therefore: a foundation in 629 is rejected as dated; a mosque at Kodungallur by the 11th–12th century is probable, and by the 14th–15th century firm. Read coast-wide, every community's tradition overshoots its attestation — Christians 52 to 849, Jews 379 to c. 1000, Muslims 629 to 849 — and all three first become visible in the same document, the Quilon plates of 849. Keywords: Cheraman Juma Masjid; Kodungallur; Malabar coast; Cheraman Perumal; Malik ibn Dinar; Quilon plates; mosque epigraphy; legend stratigraphy; attestation",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Cheraman tradition",
+    "Malabar",
+    "mosque dating",
+    "attestation",
+    "Indian history"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/malabar-mosque",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
